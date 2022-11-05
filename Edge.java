@@ -6,6 +6,6 @@ public class Edge {
 
     private static void extracted() {
         System.out.println("dena ");
-        System.out.println("Sara")
-    
+        System.out.println("Sara");
+        }
 }
